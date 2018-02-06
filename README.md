@@ -3,7 +3,7 @@
 </p>
 
 <p align=center>
-<a target="_blank" href="https://npmjs.org/package/life-commit" title="NPM version"><img src="https://img.shields.io/npm/v/life-commit.svg"></a>
+<a target="_blank" href="https://npmjs.org/package/nba-go" title="NPM version"><img src="https://img.shields.io/npm/v/life-commit.svg"></a>
 <a target="_blank" href="http://nodejs.org/download/" title="Node version"><img src="https://img.shields.io/badge/node.js-%3E=_6.0-green.svg"></a>
 <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
@@ -90,9 +90,9 @@ Create a directory that visualizing the commits on webpage
 ## Contribute
 - Define lifemojis
 
-  All the lifemojis are stored at ``/src/data/lifemojis.json``. Open an issue that contains an **emoji** and **description**. Let's brainstorm and define more and more creative lifemojis together!
+  All the lifemojis are stored at ``/src/data/lifemojis.json``. Comment at [issue#2](https://github.com/ByronHsu/life-commit/issues/2) with an **emoji** and **description**. Let's brainstorm and define more and more creative lifemojis together!
   
-  Example:
+  Format:
   ```js
     {
     "emoji": "🚚",
@@ -107,7 +107,9 @@ Create a directory that visualizing the commits on webpage
     "description": "Had a child"
     },
   ```
+- Code
 
+  Send PRs directly!
 ## Credits
 
 [Elegant UI design by Bruno Rodrigues](https://codepen.io/itbruno/pen/KwarLp)
